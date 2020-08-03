@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  ClassView.cpp
+  CLine.cpp
+  FileView.cpp
+  LineDemo.cpp
+  LineDemoDoc.cpp
+  LineDemoView.cpp
+E:\LineDemo\LineDemo\LineDemoView.cpp(70,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MainFrm.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Generating Code...
+  LineDemo.vcxproj -> E:\LineDemo\x64\Debug\LineDemo.exe
